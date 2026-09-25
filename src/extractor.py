@@ -31,13 +31,5 @@ class WeatherAPIClient:
                 raise
         return results  
 
-# Quick testing
-
-# load_dotenv()
-# base_url = os.getenv("OPENWEATHER_BASE_URL")
-# cities = [city.strip() for city in os.getenv("CITIES", "").split(",") if city.strip()]
-# client = WeatherAPIClient(base_url,cities)
-# results = client.get_forecast()
-# print (results)
 
 
