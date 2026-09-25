@@ -1,6 +1,6 @@
 # Weather Pipeline
  
-A Python data pipeline that fetches live weather data for multiple cities, transforms it, stores it as Parquet files, and runs SQL analytics on it using DuckDB. Structured logging, exception handling, environment-based config, and a full test suite.
+A Python data pipeline that fetches live weather data for multiple cities every single day at 8:00 am, transforms it, stores it as Parquet files, and runs SQL analytics on it using DuckDB. Structured logging, exception handling, environment-based config, and a full test suite.
  
 ---
  
