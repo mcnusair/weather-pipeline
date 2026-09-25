@@ -162,4 +162,4 @@ One row per city per run:
 | DuckDB | SQL analytics on local Parquet files |
 | python-dotenv | Loads credentials from .env |
 | pytest | Unit tests with mocked API calls |
- 
+ # tested credential manager
